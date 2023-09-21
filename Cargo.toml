@@ -1,0 +1,15 @@
+[package]
+name = "tinmok"
+version = "0.0.0"
+authors = ["SIKAI PENG <dev@peng.sk>"]
+edition = "2021"
+description = "Keep the name for future use as a framework."
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/sikaipeng/tinmok"
+repository = "https://github.com/sikaipeng/tinmok"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
